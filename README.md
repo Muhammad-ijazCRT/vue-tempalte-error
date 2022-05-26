@@ -5,9 +5,9 @@
 
 ![error](https://user-images.githubusercontent.com/75518471/170564946-edae26fe-7654-476f-8f10-7a8d035e4823.png)
 
+#
 
-
-@jomoflash In your jsconfig.json, put the following:
+## Copy the code and past in jsconfig.json vue vue priogram.
 
 "vueCompilerOptions": {
 "experimentalDisableTemplateSupport": true
