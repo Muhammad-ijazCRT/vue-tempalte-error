@@ -9,9 +9,9 @@
 
 ## Copy the code and past in jsconfig.json vue vue priogram.
 
-"vueCompilerOptions": {
-"experimentalDisableTemplateSupport": true
-}
+        "vueCompilerOptions": {
+        "experimentalDisableTemplateSupport": true
+        }
 
 Instead of "jsx": "preserve". Should make the error disappear.
 
